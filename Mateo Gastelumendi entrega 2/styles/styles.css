@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(68, 23, 23);
+  color: black;
+}
+input {
+  color: red;
+}
+header p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50 rem;
+  color: red;
+  display: block;
+}
+.navbar-brand img {
+  border-radius: 100rem;
+  height: 10 rem;
+  width: 10rem;
+}
+
+.primeraimg {
+  height: 40rem;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: large;
+}
+a {
+  text-decoration: none;
+  font-size: larger;
+}
+
+.carousel-item {
+  height: 40 rem;
+}
+
+.texto-intr {
+  font-size: larger;
+  background-color: rgb(104, 26, 26);
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+}
